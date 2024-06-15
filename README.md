@@ -2,6 +2,9 @@
 
 This Arduino sketch demonstrates controlling multiple stepper motors using 74HC595 shift registers for step sequencing. Each motor follows a predefined step sequence, and the control signals are synchronized using shift registers.
 
+![alt text](https://github.com/my-dudhwala/ESP32_SIPO_10Stepper/blob/main/Circiut/Screenshot%20(29).png)
+
+
 ## Hardware Components Used
 - 74HC595 Shift Register
 - Stepper Motors (Typically 4-wire)
